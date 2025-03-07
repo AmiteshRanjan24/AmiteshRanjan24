@@ -9,15 +9,25 @@
 ## 🚀 About Me  
 - 🎓 **Pre-final year B.Tech CSE student**  
 - 💻 **Love to code & solve problems**  
-- 🏆 **Solved ~1000 problems across platforms**  
-- 🌱 **Currently learning:** Cloud Computing, System Design  
-- ⚡ **Interests:** Data Structures, Alogrithms, Object-Oriented Programming
+- 🏆 **Solved ~1000 problems across platforms**   
+- ⚡ **Interests:** Data Structures, Algorithms, Object-Oriented Programming, Cloud Computing  
 
 ---
 
 ## 🏆 Competitive Programming  
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/AmiteshRanjan?theme=dark&font=JetBrains+Mono&ext=heatmap" />
+  <a href="https://leetcode.com/u/AmiteshRanjan/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/AmiteshRanjan?theme=dark&font=JetBrains+Mono&ext=heatmap" />
+  </a>
+</p>
+
+---
+
+## 📊 LeetCode Rating Graph  
+<p align="center">
+  <a href="https://leetcode.com/u/AmiteshRanjan/" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/AmiteshRanjan?theme=dark&font=JetBrains+Mono&type=graph" />
+  </a>
 </p>
 
 ---
@@ -39,17 +49,17 @@
 
 ## 📚 Languages & Tools  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,aws,docker,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,javascript,aws,git,github,vscode,linux" />
 </p>
 
 ---
 
 ## 📫 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/www.linkedin.com/in/amitesh-ranjan-089806279" target="_blank">
+  <a href="https://www.linkedin.com/in/amitesh-ranjan-089806279" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:amiteshranjan5524@gmail.com">
+  <a href="mailto:your-email@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.github.com/AmiteshRanjan24">
