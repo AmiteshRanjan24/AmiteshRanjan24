@@ -16,11 +16,11 @@
 ## 📊 Stats Overview  
 <table align="center">
   <tr>
-    <td width="48%">
+<!--     <td width="48%">
       <a href="https://leetcode.com/AmiteshRanjan/" target="_blank">
         <img src="https://leetcard.jacoblin.cool/AmiteshRanjan?theme=dark&font=Nunito&ext=contest" width="100%"/>
       </a>
-    </td>
+    </td> -->
     <td width="48%">
       <img src="https://github-readme-stats.vercel.app/api?username=AmiteshRanjan24&show_icons=true&theme=dark&hide_border=true" width="100%"/>
     </td>
