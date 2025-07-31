@@ -7,9 +7,9 @@
 ---
 
 ## 🚀 About Me  
-- 🎓 **Pre-final year B.Tech CSE student**  
+- 🎓 **Final year B.Tech CSE student**  
 - 💻 **Love to code & solve problems**    
-- ⚡ **Interests:** Data Structures, Algorithms, Object-Oriented Programming, Cloud Computing  
+- ⚡ **Interests:** Data Structures, Algorithms, Object-Oriented Programming, Cloud Computing,  
 
 ---
 
