@@ -30,7 +30,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmiteshRanjan24&theme=dark&hide_border=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiteshRanjan24&layout=compact&theme=dark&hide_border=true" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmiteshRanjan24&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
 </p>
 
 ---
