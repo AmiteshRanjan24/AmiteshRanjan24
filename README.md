@@ -33,16 +33,14 @@
  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmiteshRanjan24&theme=dark&hide_border=true" width="100%"> 
 </p> -->
 
----
 
-## 🔥 Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmiteshRanjan24&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 
 <div align="left">
   <!-- Languages -->
