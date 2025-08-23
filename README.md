@@ -43,43 +43,34 @@
 
 ---
 
-# 💻 Tech Stack
+# 💻 Tech Stack:
 
-## 🔹 Languages  
-<p align="left">
-  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="32" alt="C++ logo" />
+<div align="left">
+  <!-- Languages -->
   <img src="https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white" height="32" alt="C logo" />
+  <img src="https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="32" alt="C++ logo" />
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="32" alt="HTML5 logo" />
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="32" alt="CSS3 logo" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="32" alt="JavaScript logo" />
-</p>
 
-## 🔹 Frameworks & Libraries  
-<p align="left">
+  <!-- Frameworks & Libraries -->
   <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="32" alt="Node.js logo" />
   <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" height="32" alt="Express logo" />
-<!--   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="32" alt="React logo" /> -->
-</p>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="32" alt="React logo" />
 
-## 🔹 Databases  
-<p align="left">
+  <!-- Databases -->
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="32" alt="MySQL logo" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="32" alt="MongoDB logo" />
-</p>
 
-## 🔹 Cloud & DevOps  
-<p align="left">
+  <!-- Cloud & DevOps -->
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="32" alt="AWS logo" />
-<!--   <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="32" alt="Docker logo" /> -->
-</p>
 
-## 🔹 Tools  
-<p align="left">
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32" alt="Git logo" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32" alt="GitHub logo" />
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="32" alt="VS Code logo" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" height="32" alt="Linux logo" />
-</p>
+</div>
 
 
 
