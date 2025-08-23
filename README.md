@@ -24,12 +24,12 @@
     </td>
     <td width="48%">
       <img src="https://github-readme-stats.vercel.app/api?username=AmiteshRanjan24&show_icons=true&theme=dark&hide_border=true" width="100%"/>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmiteshRanjan24&theme=dark&hide_border=true" width="100%">
     </td>
   </tr>
 </table>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AmiteshRanjan24&theme=dark&hide_border=true" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiteshRanjan24&layout=compact&theme=dark&hide_border=true" width="48%">
 
 </p>
