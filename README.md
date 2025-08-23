@@ -1,19 +1,22 @@
-<h1 align="center">Hi, I'm Amitesh Ranjan 👋</h1>
+<h1 align="center">Hi 👋, I'm Amitesh Ranjan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Final+Year+B.Tech+CSE+Student;Passionate+Programmer" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Final+Year+B.Tech+CSE+Student;Passionate+Programmer;Problem+Solver+%7C+Tech+Enthusiast" />
 </p>
 
 ---
 
 ## 🚀 About Me  
-- 🎓 **Final year B.Tech CSE student**  
-- 💻 **Love to code & solve problems**    
-- ⚡ **Interests:** Data Structures, Algorithms, Object-Oriented Programming, Cloud Computing,  
+🎓 Final-year **B.Tech CSE Student**  
+💻 Passionate about **Coding & Problem-Solving**  
+📌 Interested in **Data Structures, Algorithms, Cloud Computing, and OOP**  
+🌱 Currently learning **Cloud, System Design & Full-Stack Development**  
+🎯 Goal: To build scalable software and contribute to open-source  
 
 ---
 
 ## 📊 Stats Overview  
+
 <table align="center">
   <tr>
     <td width="48%">
@@ -36,27 +39,34 @@
 
 ## 🔥 Contribution Graph  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmiteshRanjan24&theme=github-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmiteshRanjan24&theme=react-dark&hide_border=true" />
 </p>
 
 ---
 
-## 📚 Languages & Tools  
+## ⚡ Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,html,css,javascript,aws,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,html,css,javascript,nodejs,express,mongodb,aws,git,github,vscode,linux&perline=8" />
 </p>
 
 ---
 
-## 📫 Connect with Me  
+## 🌐 Connect with Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/amitesh-ranjan-089806279" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-amiteshranjan5524@gmail.com">
+  <a href="mailto:amiteshranjan5524@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.github.com/AmiteshRanjan24">
+  <a href="https://github.com/AmiteshRanjan24" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-</p>  
+  <a href="https://leetcode.com/u/AmiteshRanjan/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
+⭐️ From [AmiteshRanjan24](https://github.com/AmiteshRanjan24)
